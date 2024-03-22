@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kuis1</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="emas">Emas</string>
+    <string name="perak">Perak</string>
+    <string name="biasa">Biasa</string>
+    <string name="kode_barang">Kod barang</string>
+    <string name="jumlah_barang">Jumlah barang</string>
+    <string name="proses">Proses</string>
+    <string name="transaksi_hari_ini">Transaksi hari ini</string>
+    <string name="bagikan">Kongsi</string>
+    <string name="bagikan_via">Kongsi melalui</string>
+    <string name="np">"Nama Pelanggan: "</string>
+    <string name="dm">"Diskaun keahlian: "</string>
+    <string name="jb">"Jumlah Bayaran: "</string>
+    <string name="kb">"Kod barang: "</string>
+    <string name="nb">"Nama barang: "</string>
+    <string name="harga">"Harga: "</string>
+    <string name="total_harga">"Jumlah Harga: "</string>
+    <string name="diskon_harga">"Harga Diskaun: "</string>
+</resources>

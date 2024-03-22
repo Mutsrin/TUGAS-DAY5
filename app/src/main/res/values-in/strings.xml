@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Quiz1</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="emas">Emas</string>
+    <string name="perak">Perak</string>
+    <string name="biasa">Biasa</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="proses">Proses</string>
+    <string name="transaksi_hari_ini">Transaksi Hari Ini</string>
+    <string name="bagikan">bagikan</string>
+    <string name="bagikan_via">Bagikan via</string>
+    <string name="np">"Nama Pelanggan: "</string>
+    <string name="dm">"Diskon Member: "</string>
+    <string name="jb">"Jumlah Bayar: "</string>
+    <string name="kb">"Kode Barang: "</string>
+    <string name="nb">"Nama Barang: "</string>
+    <string name="harga">"Harga: "</string>
+    <string name="total_harga">"Total Harga: "</string>
+    <string name="diskon_harga">"Diskon Harga: "</string>
+</resources>
